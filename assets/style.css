@@ -1,0 +1,12 @@
+body {
+	background: rgb(238, 174, 202);
+	background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(227, 191, 236, 1) 100%);
+}
+
+nav.navbg {
+	background-color: plum;
+}
+
+article div.container.about-me {
+	background-color: rgb(252, 244, 251);
+}

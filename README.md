@@ -1,2 +1,5 @@
-# responsive-portfolio
-A responsive portfolio site using Bootstrap.
+# Responsive Portfolia using Bootstrap
+
+## About this Project
+
+This project uses the Bootstrap framework to create a responsive portfolio site.
