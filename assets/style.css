@@ -7,6 +7,10 @@ nav.navbg {
 	background-color: plum;
 }
 
+nav a.navbar-brand {
+	background-color: rgb(151, 82, 151);
+}
+
 div.about-me,
 div.portfolio {
 	background-color: rgb(252, 244, 251);
