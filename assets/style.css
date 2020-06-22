@@ -7,6 +7,13 @@ nav.navbg {
 	background-color: plum;
 }
 
-article div.container.about-me {
+div.about-me,
+div.portfolio {
 	background-color: rgb(252, 244, 251);
+}
+
+div.portfolio-item h2 {
+	position: relative;
+	top: 50%;
+	background-color: rgba(247, 171, 234, 0.8);
 }

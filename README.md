@@ -1,4 +1,4 @@
-# Responsive Portfolia using Bootstrap
+# Responsive Portfolio using Bootstrap
 
 ## About this Project
 
