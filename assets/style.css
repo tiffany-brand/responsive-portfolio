@@ -12,12 +12,18 @@ nav a.navbar-brand {
 }
 
 div.about-me,
-div.portfolio {
+div.portfolio,
+div.contact {
 	background-color: rgb(252, 244, 251);
 }
 
 div.portfolio-item h2 {
 	position: relative;
 	top: 75%;
+	margin-top: -25px;
 	background-color: rgba(247, 171, 234, 0.8);
+}
+
+footer.footer {
+	background-color: plum;
 }
