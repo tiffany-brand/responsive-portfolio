@@ -1,13 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
 body {
 	background: rgb(238, 174, 202);
 	background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(227, 191, 236, 1) 100%);
 }
 
 nav.navbg {
+	border-bottom: 2px solid rgb(151, 82, 151);
 	background-color: plum;
 }
 
 nav a.navbar-brand {
+	font-family: Poppins, sans-serif;
 	background-color: rgb(151, 82, 151);
 }
 
