@@ -24,7 +24,7 @@ a i {
 	color: rgb(151, 82, 151);
 }
 
-i:hover {
+a i:hover {
     opacity: 0.7;
 }
 
